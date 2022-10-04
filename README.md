@@ -10,8 +10,8 @@ EXPERIENCE
       Organized, developed and supported the program for creating a set of documents in just one click, which reduced the time for preparing customs documents  from 40-60 minutes to just 1.
 
 - VisaTravel  (June, 2022 - September, 2022).   
-      The program sends SMS using the https://smsaero.ru API when the status of an order in a Google spreadsheet changes.
-      Technologies used: SmsAero API, Google Apps Script, JavaScript.
+      Developed and support the program that sends SMS and e-mails to clients using the https://smsaero.ru API when the status of an order in a Google spreadsheet changes.
+      Technologies used: SmsAero API, Google Apps Script, Gmail, JavaScript.
 
 PROJECTS
 - The Quiz Game.  
