@@ -16,7 +16,7 @@ EXPERIENCE
 PROJECTS
 - The Quiz Game.  
       Quiz game where you choose categories of questions and answer them aka 'Millionaire' game.  
-      Technologies used: Java FX, JSON, Java Preferences API, Open Trivia DB API (https://opentdb.com/).
+      Technologies used: Java FX, JSON, CSV, JDBC, Java Preferences API, Open Trivia DB API (https://opentdb.com/).
 
 - ConsoleUtility.  
       Program parses the command line and executes commands.  
@@ -39,7 +39,7 @@ EDUCATION
   - Study with a mentor, 2021- until now.
 
 SKILLS    
-Windows • Java • Java EE • Java FX  • SQL • JSON • XML • Maven • Tomcat • Java Servlets • JUnit • JDBC • Rest API 
+Windows • Java • Java EE • Java FX  • SQL • JSON • CSV • XML • Maven • Tomcat • Java Servlets • JUnit • JDBC • Rest API 
 • JavaScript (Basic) • Google Apps Script  • English (Fluent) • Italian (Basic) • German (Elementary)
 
 HOBBIES
