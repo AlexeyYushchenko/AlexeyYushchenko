@@ -38,7 +38,7 @@ EDUCATION
   - Stepik, SQL course, 2022.
   - Study with a mentor, 2021- until now.
 
-SKILLS  
+SKILLS    
 Windows • Java • Java EE • Java FX  • SQL • JSON • XML • Maven • Tomcat • Java Servlets • JUnit • JDBC • Rest API 
 • JavaScript (Basic) • Google Apps Script  • English (Fluent) • Italian (Basic) • German (Elementary)
 
