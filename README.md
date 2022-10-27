@@ -5,7 +5,7 @@
 - 📫 You can reach me by 13yae13@gmail.com or contact me on telegram - @yushchenkoalexey
 
 EXPERIENCE
-- Automation of document preparation for DHL  (April, 2012 - June, 2012).   
+- Automation of document preparation  (January, 2022 - April, 2022).   
       Automation of workflow for the purpose of customs clearance when importing goods to the CIS countries from the USA and Europe.
       Organized, developed and supported the program for creating a set of documents in just one click, which reduced the time for preparing customs documents  from 40-60 minutes to just 1.
 
