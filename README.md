@@ -1,18 +1,19 @@
 - 👋 Hi, I’m Alexey Yushchenko
 - 👀 I’m interested in creating apps and projects that solve business problems, help you make more money or make life easier.
-- 🌱 I’m currently working with Java Core, Java FX, Java EE, Spring and try to build projects with it.
+- 🌱 I’m currently building projects with Spring, Java FX.
 - 💞️ I’m looking forward to collaborate on any project.
 - 📫 You can reach me by 13yae13@gmail.com or contact me on telegram - @yushchenkoalexey
 
 EXPERIENCE
-- Automation of document preparation  (January, 2022 - April, 2022).   
-      Automation of workflow for the purpose of customs clearance when importing goods to the CIS countries from the USA and Europe.
-      Organized, developed and supported the program for creating a set of documents in just one click, which reduced the time for preparing customs documents  from 40-60 minutes to just 1.
-
-- VisaTravel  (June, 2022 - September, 2022).   
+- VisaTravel  (June, 2022 - till now).   
       Developed and support the program that sends SMS and e-mails to clients using the https://smsaero.ru API when the status of an order in a Google spreadsheet changes.
       Technologies used: SmsAero API, Google Apps Script, Gmail, JavaScript.
 
+
+- Automation of document preparation  (January, 2022 - April, 2022).   
+      Automation of workflow for the purpose of customs clearance when importing goods to the CIS countries from the USA and Europe.
+      Organized, developed and supported the program for creating a set of documents in just one click, which reduced the time for preparing customs documents  from 40-60 minutes to just 1.
+      
 PROJECTS
 - The Quiz Game.  
       Quiz game where you choose categories of questions and answer them aka 'Millionaire' game.  
