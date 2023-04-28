@@ -1,3 +1,5 @@
+Java Software Developer
+
 - 👋 Hi, I’m Alexey Yushchenko
 - 🌱 I’m currently building projects with Spring.
 - 💞️ I’m looking forward to collaborate on any project.
@@ -12,7 +14,9 @@ Currently, I am working on creating a Telegram bot that 1) receives and forwards
 - Automation of document preparation  (January, 2022 - April, 2022).   
       Automation of workflow for the purpose of customs clearance when importing goods to the CIS countries from the USA and Europe.
       Organized, developed and supported the program for creating a set of documents in just one click, which reduced the time for preparing customs documents  from 40-60 minutes to just 1.
-     
+      
+Skills:
+Spring, Hibernate, JDBC, 
 
 EDUCATION
   - Codecademy, JavaScript course, 2012.
