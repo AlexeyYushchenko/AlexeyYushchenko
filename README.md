@@ -1,40 +1,52 @@
 Java Software Developer
 
-- 👋 Hi, I’m Alexey Yushchenko
-- 🌱 I’m currently building projects with Spring.
-- 💞️ I’m looking forward to collaborate on any project.
-- 📫 You can reach me by 13yae13@gmail.com or contact me on telegram - @yushchenkoalexey
+👋 Hi, I’m Alexey Yushchenko
+🌱 I’m currently building projects with Spring.
+💼 Work experience: 2 years 6 months
+💞️ I’m looking forward to collaborating on any project.
+📫 You can reach me at 13yae13@gmail.com or contact me on Telegram - @yushchenkoalexey
 
 EXPERIENCE
-- VisaTravel  (June, 2022 - till now).   
-     I develop a CRM system that processes new customer requests and allows managing current orders. I also integrated a notification system that informs customers by sending them SMS and emails when the status of their orders changes. 
-Currently, I am working on creating a Telegram bot that 1) receives and forwards service requests from customers, 2) provides current exchange rates upon request from the Central Bank of Russia, the National Bank of Kazakhstan, MOEX and KASE exchanges, as well as data from the most popular banks in Kazakhstan: Freedom Bank, Halyk Bank, Bank Center Credit, and others.
+U-TLC
+Software Engineer
+August 2023 — Present (1 year 1 month)
+Russia
+www.u-tlc.ru
 
+Initiated the development of a comprehensive client relations and order management system aimed at replacing the existing Oracle software. The project's objective is to deliver a tailored, efficient, and cost-effective solution for a logistics company that specializes in international deliveries, including Europe, the USA, and China. Focused on automating the customs clearance process, a crucial component of the company's operations, the project seeks to enhance operational efficiency, reliability, and customer satisfaction. The project is currently underway, with significant milestones already achieved.
 
-- Automation of document preparation  (January, 2022 - April, 2022).   
-      Automation of workflow for the purpose of customs clearance when importing goods to the CIS countries from the USA and Europe.
-      Organized, developed and supported the program for creating a set of documents in just one click, which reduced the time for preparing customs documents  from 40-60 minutes to just 1.
-      
-Skills:
-Spring, Hibernate, JDBC, 
+Responsibilities:
+Software Development and System Design: Lead the ongoing design and development of a custom software solution to automate and streamline client relations and order management, with a particular focus on simplifying the customs clearance for international shipments.
+Data Integration and Automation: Implement data integration solutions to facilitate automatic generation of customs clearance documents and efficient handling of client information and order details, leveraging existing databases and spreadsheets.
+Continuous Improvement and Support: Provide continuous maintenance, updates, and optimizations to ensure the software's reliability and efficiency while adapting to evolving business needs and regulations.
 
-EDUCATION
-  - Codecademy, JavaScript course, 2012.
-  - JavaRush, Java course, 2020-2021.
-  - Stepik, SQL course, 2022.
-  - Study with a mentor, 2021- until now.
-  - Udemy (2023): Servlets, Groovy, Gradle, Hibernate.
+Key Achievements:
+- Made significant strides in developing a proprietary system designed to improve the customs clearance process, aiming to reduce document preparation time by a projected 95%.
+- The system, once fully implemented, is expected to significantly enhance the company's ability to process a higher volume of customs clearances, leading to improved efficiency and faster delivery times.
+- The project is anticipated to play a crucial role in the company’s expansion by optimizing resource allocation and enhancing delivery reliability, thus boosting customer satisfaction and loyalty.
 
-SKILLS    
-Java Core • Spring • Hibernate • Postgresql • Docker • Gradle • Groovy • Maven • Java FX  • SQL • JSON • CSV • XML • Tomcat • Java Servlets • JUnit • JDBC • Rest API 
-• JavaScript (Basic) • Google Apps Script  • English (Fluent) • Italian (Basic) • German (Elementary)
+VISA TRAVEL
+Software Engineer
+April 2022 — August 2023 (1 year 5 months)
+Almaty, Kazakhstan
+visatravel.kz
+
+Worked on streamlining the process of obtaining credit cards from different banks internationally, eliminating the need for customers to physically visit banks in other countries. The company’s platform offers a seamless and efficient approach to credit card acquisition, providing an innovative solution for customers worldwide.
+
+Responsibilities:
+CRM System Design and Implementation: Developed and executed the initial design of a comprehensive CRM system to effectively manage new customer requests and current orders.
+User Experience Enhancement: Continuously improved the CRM system's user experience and overall efficiency for the platform.
+Notification System Integration: Integrated a notification system that utilizes SMS and email to keep customers informed about the status of their orders, further improving customer satisfaction.
+
+Key Achievements:
+- Successfully developed and implemented a robust CRM system that improved the processing of new customer requests by 70%.
+- Integrated a dynamic notification system, leading to a 35% reduction in customer inquiries related to order status.
+- The platform attracted over 6,000 users within the first six months of its launch, generating a significant increase in revenue for the company.
+
+SKILLS
+Java Core • Spring • Hibernate • PostgreSQL • Docker • Gradle • Groovy • Maven • Java FX • SQL • JSON • CSV • XML • Tomcat • Java Servlets • JUnit • JDBC • Rest API • JavaScript (Basic) • Google Apps Script • English (Fluent) • Italian (Intermediate) • German (Elementary)
 
 HOBBIES
-- I play the piano and electric guitar.
-- Until recently, he was engaged in skydiving, piloting a paraglider.
-- Now in the summer I like to scuba dive and in the winter I go skiing.
-
-<!---
-AlexeyYushchenko/AlexeyYushchenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I play the piano and electric guitar.
+Until recently, I was engaged in skydiving and piloting a paraglider.
+Now, in the summer, I enjoy scuba diving, and in the winter, I go skiing.
